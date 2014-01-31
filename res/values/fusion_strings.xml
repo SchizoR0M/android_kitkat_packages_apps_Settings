@@ -575,4 +575,7 @@
     <string name="telo_radio_go_3g_unlock_title">3G Unlock</string>
     <string name="telo_radio_go_3g_unlock_summary">When device is unlocked network mode switches to 3G again.</string>
 
+    <!-- Performance control -->
+    <string name="performance_settings">Performance control</string>
+
 </resources>
